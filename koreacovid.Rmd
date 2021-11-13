@@ -51,6 +51,14 @@ In the two bar charts above, the first bar chart shows there were more females t
 
   
 ## Numerical results
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+In the tables presented, I see that both males and females have the total of 100. I see that on the top table the males alive is 44 and the males dead are 64. It also shows that the females alive are 56 and the females dead are 36. The other table shows that 98.7% females are alive, 1.4 are dead. And for the males it shows 97% are alive and 3 are dead. The total for the females in this table is 100.0.
+
 
 
 ## Inferential results 
