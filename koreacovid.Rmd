@@ -72,3 +72,4 @@ The Chi sq test show that 1831 were females and that 1411 were males that were a
 
 ## Conclusions
 
+In conclusion the data shows that males are more likely to die from covid-19 compared to the females. Since the data was taken at the start of covid, there is very little information and not a lot was available to us.
