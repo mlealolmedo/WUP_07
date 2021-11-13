@@ -45,8 +45,7 @@ barchartGC(~result + Sex,data=kRdata, type="percent")
 
 ```
   
-
-
+In the two bar charts above, the first bar chart shows there were more females than males in the alive tab and there was more males in the dead tab compared to the females. The second bar chart shows a great increase in death than the first bar chart. And in the second bar chart, the males death is higher than the females death. So the first plot shows that the amount of people that died was not that great compared to the people who are still alive, the second plot shows that there is more dead males than the dead females.
 
 
 
