@@ -62,8 +62,12 @@ In the tables presented, I see that both males and females have the total of 100
 
 
 ## Inferential results 
-
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The Chi sq test show that 1831 were females and that 1411 were males that were alive, the chi sq also shows that 25 females and 44 males died. The fisher test show me information of the odds, for the females dying which is 25/1831 and for males it is 44/1411. The odd ratio is 44/1411 divided by 25/1831 and the answer is 2.3.The odd ratio shows me that the males are 2.3x more likely to die than the females are too.
 
 
 ## Conclusions
